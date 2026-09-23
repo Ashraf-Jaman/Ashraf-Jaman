@@ -1,106 +1,217 @@
-# Hi, I'm Hridoy 👋
+<!-- ===================== HEADER ===================== -->
 
-### Full-Stack Web Developer | MERN Stack Focus
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb" />
+# 👋 Hi, I'm **Ashraf Jaman**
+
+### 🚀 Full-Stack Web Developer | MERN Stack Focus
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+%26+Improving" alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/Ashraf-Jaman">
+    <img src="https://img.shields.io/badge/GitHub-Ashraf--Jaman-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 </p>
 
-I’m a **Full-Stack Web Development learner** focused on the **MERN ecosystem**. I enjoy building modern, responsive, and scalable web applications while continuously improving my development and problem-solving skills.
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-* Full-Stack Web Development focused
-* MERN Stack enthusiast
-* Currently strengthening my skills in modern JavaScript technologies
-* Interested in clean code, scalable architecture, and real-world applications
-* Continuously learning and improving as a developer
+I'm a passionate **Full-Stack Web Developer** focused on the **MERN Stack**.
+
+🎓 Mathematics Honours Student
+💻 MERN Stack Developer in Progress
+🚀 Aspiring Software Engineer
+📚 Programming Hero — Level 1
+🌱 Constantly learning and building real-world applications
+
+I enjoy turning ideas into clean, responsive, and functional web applications.
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools
+### 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 ---
 
-## Current Focus
+## 🚀 What I'm Working On
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,express,mongodb" />
-</p>
-
-Currently focusing on:
-
-* TypeScript
-* Next.js
-* Node.js
-* Express.js
-* MongoDB
-* REST API development
-* Authentication & Authorization
-* Clean and maintainable code
+* Building full-stack applications with **MERN**
+* Creating responsive UIs with **React & Tailwind CSS**
+* Developing REST APIs using **Node.js & Express**
+* Working with **MongoDB**
+* Improving JavaScript and modern web development skills
+* Learning better software architecture and development practices
 
 ---
 
-## GitHub Statistics
+## 📌 Featured Projects
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" 
-    height="170"
-  />
-</p>
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-## Contribution Activity
+### 🌐 MERN Full-Stack Application
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"
-    width="100%"
-  />
-</p>
+A modern full-stack web application built with the MERN ecosystem.
 
----
+**Tech Stack**
 
-## Connect With Me
+`React` `Node.js` `Express` `MongoDB`
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+<p>
+  <a href="https://github.com/Ashraf-Jaman">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
+</td>
+
+<td width="50%" valign="top">
+
+### ⚛️ React Application
+
+A responsive and modern frontend application focused on clean UI and user experience.
+
+**Tech Stack**
+
+`React` `JavaScript` `Tailwind CSS`
+
+<p>
+  <a href="https://github.com/Ashraf-Jaman">
+    <img src="https://img.shields.io/badge/View_Project-36BCF7?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔗 REST API Project
+
+Backend API development using Node.js and Express with database integration.
+
+**Tech Stack**
+
+`Node.js` `Express` `MongoDB`
+
+<p>
+  <a href="https://github.com/Ashraf-Jaman">
+    <img src="https://img.shields.io/badge/API_Project-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💡 JavaScript Projects
+
+Small projects created to strengthen JavaScript, DOM, API, and problem-solving skills.
+
+**Tech Stack**
+
+`JavaScript` `HTML` `CSS`
+
+<p>
+  <a href="https://github.com/Ashraf-Jaman">
+    <img src="https://img.shields.io/badge/Explore-36BCF7?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
+## 🧠 Development Journey
+
+```text
+JavaScript
+     ↓
+React
+     ↓
+Next.js
+     ↓
+Node.js + Express
+     ↓
+MongoDB
+     ↓
+Full-Stack Applications
+     ↓
+Software Engineering 🚀
+```
+
+---
+
+## 📈 GitHub
+
 <p align="center">
-  <b>Build. Learn. Improve.</b>
+  <a href="https://github.com/Ashraf-Jaman">
+    <img src="https://img.shields.io/github/followers/Ashraf-Jaman?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <a href="https://github.com/Ashraf-Jaman?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Ashraf-Jaman?style=for-the-badge&logo=github&label=Stars" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Ashraf-Jaman?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Ashraf-Jaman">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<div align="center">
+
+### 💻 Code. Build. Learn. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+
+</div>
