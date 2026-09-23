@@ -30,29 +30,18 @@ I'm a passionate **Full-Stack Web Developer** focused on the **MERN Stack**.
 
 I enjoy turning ideas into clean, responsive, and functional web applications.
 
----
+🛠️ Tech Stack
+Frontend
 
-## ⚡ Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs" /> </p>
 
-### 🎨 Frontend
+Backend & Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,firebase" /> </p>
 
-### ⚙️ Backend & Database
+Tools & Others
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
-
----
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" /> </p>
 
 ## 🚀 What I'm Working On
 
@@ -62,112 +51,6 @@ I enjoy turning ideas into clean, responsive, and functional web applications.
 * Working with **MongoDB**
 * Improving JavaScript and modern web development skills
 * Learning better software architecture and development practices
-
----
-
-## 📌 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 MERN Full-Stack Application
-
-A modern full-stack web application built with the MERN ecosystem.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
-<p>
-  <a href="https://github.com/Ashraf-Jaman">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚛️ React Application
-
-A responsive and modern frontend application focused on clean UI and user experience.
-
-**Tech Stack**
-
-`React` `JavaScript` `Tailwind CSS`
-
-<p>
-  <a href="https://github.com/Ashraf-Jaman">
-    <img src="https://img.shields.io/badge/View_Project-36BCF7?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔗 REST API Project
-
-Backend API development using Node.js and Express with database integration.
-
-**Tech Stack**
-
-`Node.js` `Express` `MongoDB`
-
-<p>
-  <a href="https://github.com/Ashraf-Jaman">
-    <img src="https://img.shields.io/badge/API_Project-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💡 JavaScript Projects
-
-Small projects created to strengthen JavaScript, DOM, API, and problem-solving skills.
-
-**Tech Stack**
-
-`JavaScript` `HTML` `CSS`
-
-<p>
-  <a href="https://github.com/Ashraf-Jaman">
-    <img src="https://img.shields.io/badge/Explore-36BCF7?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🧠 Development Journey
-
-```text
-JavaScript
-     ↓
-React
-     ↓
-Next.js
-     ↓
-Node.js + Express
-     ↓
-MongoDB
-     ↓
-Full-Stack Applications
-     ↓
-Software Engineering 🚀
-```
 
 ---
 
@@ -198,7 +81,7 @@ Software Engineering 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ashraf-jaman/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
