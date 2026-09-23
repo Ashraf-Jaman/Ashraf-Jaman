@@ -61,27 +61,15 @@ Currently focusing on:
 
 ---
 
-## Projects
-
-### Selected Projects
-
-| Project          | Description                      | Technologies              |
-| :--------------- | :------------------------------- | :------------------------ |
-| **Project Name** | Short description of the project | React · Node.js · MongoDB |
-| **Project Name** | Short description of the project | Next.js · TypeScript      |
-| **Project Name** | Short description of the project | MERN Stack                |
-
----
-
 ## GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" 
     height="170"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" 
     height="170"
   />
 </p>
@@ -91,7 +79,7 @@ Currently focusing on:
 ## Contribution Activity
 
 <p align="center">
-  <img
+  <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"
     width="100%"
   />
